@@ -20,3 +20,5 @@ To run this code, you will need the following environment:
 The .csv file demonstrates the data format used in the two-stage time-series analysis (hospitalization counts are simulated demo values).
 
 two-stage-DLNM.R: two-stage time-series analysis.
+
+DFAA_definiton.R: definition of drought-to-flood events.
